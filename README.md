@@ -19,7 +19,7 @@ After conducting 7000 matches of self-play, the algorithm converges, achieving a
 
 Overall, this project serves as a practical exploration of machine learning principles in a controlled environment, providing valuable insights into how AI can learn and adapt through experience in a simple yet challenging game scenario.
 
-# Instructions to Run the PC vs. PC Tic-Tac-Toe Project
+# Instructions to Run the PC vs. PC Tic-Tac-Toe 
 ### Open the Repository:
 Navigate to the PC vs. PC folder in the GitHub repository.
 ### Run main.m:
@@ -32,3 +32,16 @@ Change the value to a number greater than 5000 (e.g., numMatches = 7000;).
 ### Execute the Program:
 Run the main.m script.
 Observe the results after the matches conclude.
+
+# Instructions to Run the PC vs. YOU Tic-Tac-Toe Edition
+### Open the Repository:
+Navigate to the PC vs. YOU folder in the GitHub repository.
+### Run main.m:
+Open MATLAB (or any compatible environment).
+Load the project by navigating to the PC vs. YOU folder.
+Open the main.m file.
+### Start the Game:
+Run the main.m script to start the game.
+Follow the prompts to play against the PC.
+### Make Your Moves:
+Input your moves as prompted, and watch the PC respond.
