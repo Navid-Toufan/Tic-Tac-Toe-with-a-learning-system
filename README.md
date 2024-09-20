@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-with-a-learning-system
 
-This project implements a Tic-Tac-Toe game where two computer players compete against each other, showcasing the application of machine learning concepts inspired by Chapter 1 of "Machine Learning" by Tom M. Mitchell. The aim is to explore how learning algorithms can optimize gameplay strategies through self-play, allowing the AI to improve its decision-making over time.
+This project implements a Tic-Tac-Toe game in MATLAB where two computer players compete against each other, showcasing the application of machine learning concepts inspired by Chapter 1 of "Machine Learning" by Tom M. Mitchell. The aim is to explore how learning algorithms can optimize gameplay strategies through self-play, allowing the AI to improve its decision-making over time.
 
 In this implementation, the Tic-Tac-Toe board state is represented using six essential features that capture the dynamics of the game:
 
