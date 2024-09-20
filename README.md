@@ -46,4 +46,9 @@ Follow the prompts to play against the PC.
 ### Make Your Moves:
 Input your moves as prompted, and watch the PC respond.
 
-| ![Animation 1](A1.gif) | ![Animation 2](A2.gif) |
+<table>
+  <tr>
+    <td><img src="A1.gif" alt="Animation 1" width="200"></td>
+    <td><img src="A2.gif" alt="Animation 2" width="200"></td>
+  </tr>
+</table>
