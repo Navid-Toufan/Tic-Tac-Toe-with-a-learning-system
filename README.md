@@ -45,3 +45,5 @@ Run the main.m script to start the game.
 Follow the prompts to play against the PC.
 ### Make Your Moves:
 Input your moves as prompted, and watch the PC respond.
+
+| ![Animation 1](A1.gif) | ![Animation 2](A2.gif) |
