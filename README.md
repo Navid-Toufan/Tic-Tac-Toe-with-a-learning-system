@@ -11,7 +11,7 @@ In this implementation, the Tic-Tac-Toe board state is represented using six ess
 𝑥5 : The number of potential winning lines for player X. This feature indicates how many ways player X can win in future moves.<br/>
 𝑥6 : The number of potential winning lines for player O. Similar to x5, it assesses potential threats from player O.<br/>
 
-The evaluation function 𝑉 is constructed as a linear combination of these features:
+The evaluation function 𝑉 is constructed as a linear combination of these features:<br/>
 𝑉(hat)=𝑤0 + 𝑤1𝑥1 + 𝑤2𝑥2 + 𝑤3𝑥3 + 𝑤4𝑥4 + 𝑤5𝑥5 + 𝑤6𝑥6
 ​
 The weights 𝑤(i​) are iteratively adjusted based on the outcomes of the matches, with the AI learning to prioritize certain moves that lead to favorable outcomes.
