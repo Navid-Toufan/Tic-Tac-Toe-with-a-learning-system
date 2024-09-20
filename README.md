@@ -12,7 +12,7 @@ In this implementation, the Tic-Tac-Toe board state is represented using six ess
 𝑥6 : The number of potential winning lines for player O. Similar to x5, it assesses potential threats from player O.<br/>
 
 The evaluation function 𝑉 is constructed as a linear combination of these features:<br/>
-$$\hat{𝑉}$$=𝑤0 + 𝑤1𝑥1 + 𝑤2𝑥2 + 𝑤3𝑥3 + 𝑤4𝑥4 + 𝑤5𝑥5 + 𝑤6𝑥6
+$$\hat{𝑉}$$=𝑤0 + 𝑤1𝑥1 + 𝑤2𝑥2 + 𝑤3𝑥3 + 𝑤4𝑥4 + 𝑤5𝑥5 + 𝑤6𝑥6<br/>
 ​
 The weights 𝑤(i​) are iteratively adjusted based on the outcomes of the matches, with the AI learning to prioritize certain moves that lead to favorable outcomes.
 After conducting 7000 matches of self-play, the algorithm converges, achieving an impressive 95% draw rate. This result highlights the effectiveness of the learning process, as both players become highly skilled at countering each other's strategies, demonstrating the potential of machine learning in game development.
