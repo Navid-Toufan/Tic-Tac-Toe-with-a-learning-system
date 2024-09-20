@@ -18,3 +18,17 @@ The weights 𝑤(i​) are iteratively adjusted based on the outcomes of the mat
 After conducting 7000 matches of self-play, the algorithm converges, achieving an impressive 95% draw rate. This result highlights the effectiveness of the learning process, as both players become highly skilled at countering each other's strategies, demonstrating the potential of machine learning in game development.
 
 Overall, this project serves as a practical exploration of machine learning principles in a controlled environment, providing valuable insights into how AI can learn and adapt through experience in a simple yet challenging game scenario.
+
+# Instructions to Run the PC vs. PC Tic-Tac-Toe Project
+### Open the Repository:
+Navigate to the PC vs. PC folder in the GitHub repository.
+### Run main.m:
+Open MATLAB (or any compatible environment).
+Load the project by navigating to the PC vs. PC folder.
+Open the main.m file.
+### Set the Number of Matches:
+In main.m, find the line where the number of matches is defined.
+Change the value to a number greater than 5000 (e.g., numMatches = 7000;).
+### Execute the Program:
+Run the main.m script.
+Observe the results after the matches conclude.
