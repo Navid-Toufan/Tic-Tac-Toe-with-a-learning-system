@@ -52,3 +52,9 @@ Input your moves as prompted, and watch the PC respond.
     <td><img src="A2.gif" alt="Animation 2" width="200"></td>
   </tr>
 </table>
+
+### This project was completed in 2017 and uploaded to GitHub in 2024 for archival purposes.
+
+### Timeline
+- **Completed:** 2017
+- **Uploaded:** 2024
